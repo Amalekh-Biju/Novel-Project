@@ -9,7 +9,7 @@ function App() {
 
   return (
   <div>
-    <Editor completionApi='https://localhost:3000/'/>
+    <Editor completionApi='https://organic-broccoli-xgr54wv6944c65g7-3000.app.github.dev/generate'/>
   </div>
   )
 }
